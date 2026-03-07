@@ -1,0 +1,7 @@
+{
+  "name": "PortalIntel AI",
+  "description": "The ultimate AI-powered College Football Transfer Portal tracker. Aggregates intelligence from On3, 247Sports, Rivals, and more using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
